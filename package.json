@@ -1,6 +1,6 @@
 {
   "name": "noobgl-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nodal classes designed for noobgl",
   "main": "index.js",
   "repository": {
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/noobgl/noobgl-vector#readme",
   "dependencies": {
-    "noobgl": "0.0.4",
-    "noobgl-matrix": "0.0.2",
-    "noobgl-vector": "0.0.2"
+    "noobgl": "^0.0.4",
+    "noobgl-matrix": "^0.0.3",
+    "noobgl-vector": "^0.0.2"
   }
 }
