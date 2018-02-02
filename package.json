@@ -1,0 +1,24 @@
+{
+  "name": "noobgl-node",
+  "version": "0.0.1",
+  "description": "Nodal classes designed for noobgl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noobgl/noobgl-vector.git"
+  },
+  "keywords": [
+    "vector"
+  ],
+  "author": "Jordan Delcros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noobgl/noobgl-vector/issues"
+  },
+  "homepage": "https://github.com/noobgl/noobgl-vector#readme",
+  "dependencies": {
+    "noobgl": "0.0.4",
+    "noobgl-matrix": "0.0.2",
+    "noobgl-vector": "0.0.2"
+  }
+}
